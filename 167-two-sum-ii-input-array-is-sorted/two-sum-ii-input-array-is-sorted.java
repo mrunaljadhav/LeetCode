@@ -13,7 +13,7 @@ class Solution {
                 j--;
             }
             else {
-                i++;
+                i++;  
             }
         } 
          return new int[0];
